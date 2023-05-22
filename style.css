@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@500&family=Overpass:wght@800&family=PT+Sans:wght@700&family=Pacifico&display=swap");
+
+.text-default {
+  font-family: "Open Sans", sans-serif;
+}
+
+.heading-font {
+  font-family: "Lobster", cursive;
+}
+
+.heading-font2 {
+  font-family: "PT Sans", sans-serif;
+}
+
+.heading-font3 {
+  font-family: "Pacifico", cursive;
+}
+
+.background-back2 {
+  position: relative;
+  z-index: 2;
+  background-image: url("./images/splash2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+}
+
+.background-back3 {
+  position: relative;
+  z-index: 2;
+  background-image: url("./images/splash.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+}
